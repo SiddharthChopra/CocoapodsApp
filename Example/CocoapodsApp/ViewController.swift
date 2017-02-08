@@ -16,7 +16,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         // Setup the BlinkingLabel
         blinkingLabel.text = "I blink!"
         blinkingLabel.font = UIFont.systemFont(ofSize: 20)
