@@ -1,0 +1,22 @@
+{
+  "name": "CocoapodsApp",
+  "version": "0.1.0",
+  "summary": "A short description of CocoapodsApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SiddharthChopra/CocoapodsApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SiddharthChopra": "siddharth5852@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/SiddharthChopra/CocoapodsApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoapodsApp/Classes/**/*"
+}

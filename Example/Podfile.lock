@@ -1,0 +1,16 @@
+PODS:
+  - CocoapodsApp (0.1.0)
+
+DEPENDENCIES:
+  - CocoapodsApp (from `../`)
+
+EXTERNAL SOURCES:
+  CocoapodsApp:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoapodsApp: 3b04ffe6ac76b46f4517e2b3d8183d796e4a1b57
+
+PODFILE CHECKSUM: 1d09369026984a90dbb93e24166431fcc38c3a77
+
+COCOAPODS: 1.2.0
